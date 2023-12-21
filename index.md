@@ -1,5 +1,4 @@
 ---
-title: Welcome to my blog
+layout: home
 ---
 
-Hi, friend! 
